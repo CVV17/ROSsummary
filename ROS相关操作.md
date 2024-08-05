@@ -580,7 +580,7 @@ IMU数据信息包含了机器人的空间姿态信息，订阅`/imu/data`获取
 
 ##### MOVE_BASE节点
 
-![](img\overview_tf.png)
+![](img/overview_tf.png)
 
 全局规划器、全局/局部代价地图
 
@@ -630,7 +630,7 @@ IMU数据信息包含了机器人的空间姿态信息，订阅`/imu/data`获取
 
 ###### 恢复行为Recovery Behavior
 
-![](img\recovery_behaviors.png)
+![](img/recovery_behaviors.png)
 
 根据机器人的特性和需求重新设计恢复行为的机制
 
