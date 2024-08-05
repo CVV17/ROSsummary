@@ -265,4 +265,4 @@ $ git commit -m "wrote a readme file"
 
 
 
-关于git: [Git简介 - 廖雪峰的官方网站 (liaoxuefeng.com)](
+关于git: [Git简介 - 廖雪峰的官方网站 (liaoxuefeng.com)](https://www.liaoxuefeng.com/wiki/896043488029600/896067008724000)
